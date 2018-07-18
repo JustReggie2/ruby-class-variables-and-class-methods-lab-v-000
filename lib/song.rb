@@ -48,6 +48,6 @@ class Song
         a_count[the_artist] = 1
       end
     end
-    gcount
+    a_count
   end
 end
